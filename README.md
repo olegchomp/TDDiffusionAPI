@@ -24,3 +24,5 @@ Use pull request or discord server to suggest tasks
 - [ ] Save sampling steps
 - [ ] Sampler
 - [ ] Delete everything on exit
+- [ ] In App anotation
+- [ ] FAQ
