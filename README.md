@@ -19,5 +19,6 @@ Use pull request or discord server to suggest tasks
 - [x] Lecica API
 - [ ] img2img
 - [ ] Model select
+- [ ] Check updates
 - [ ] Latent interpolation
 - [ ] Save sampling steps
