@@ -20,4 +20,4 @@ Use pull request or discord server to suggest tasks
 - [ ] img2img
 - [ ] Model select
 - [ ] Latent interpolation
-- [ ] Saving sampling
+- [ ] Saving sampling steps
