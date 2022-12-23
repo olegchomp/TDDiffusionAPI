@@ -22,3 +22,5 @@ Use pull request or discord server to suggest tasks
 - [ ] Check updates
 - [ ] Latent interpolation
 - [ ] Save sampling steps
+- [ ] Sampler
+- [ ] Delete everything on exit
