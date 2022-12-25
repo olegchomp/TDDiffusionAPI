@@ -26,3 +26,4 @@ Use pull request or discord server to suggest tasks
 - [ ] Delete everything on exit
 - [ ] In App anotation
 - [ ] FAQ
+- [ ] Lexica optimization
