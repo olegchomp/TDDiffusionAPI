@@ -16,7 +16,7 @@ Easy to follow [YouTube](https://youtu.be/zkrvszlmEQU) tutorial (4 min).
 Use pull request or discord server to suggest tasks 
 
 - [x] txt2img
-- [x] Lecica API
+- [x] Lexica API
 - [ ] img2img
 - [ ] Model select
 - [ ] Check updates
@@ -27,3 +27,4 @@ Use pull request or discord server to suggest tasks
 - [ ] In App anotation
 - [ ] FAQ
 - [ ] Lexica optimization
+- [ ] CLIP optimization
