@@ -26,7 +26,7 @@ Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://g
 6. Run "Check" in "Dependencies" of TDA settings.
 	
 ## Roadmap 
-Use pull request or discord server to suggest tasks 
+Use issues request or discord server to suggest tasks 
 
 - [ ] Seed travel
 - [ ] Save sampling steps
