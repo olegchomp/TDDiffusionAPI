@@ -2,7 +2,7 @@
 Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) API
 
 
-![TDDiffusion](https://user-images.githubusercontent.com/11017531/209246887-78790ddd-2629-4ec9-b512-2b89112df7ad.png)
+![image](https://user-images.githubusercontent.com/11017531/220714418-fc4fdc14-a8c7-4d2c-964b-91aada16a638.png)
 
 ## Version 2.0.0
 ### Features:
