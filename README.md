@@ -31,6 +31,7 @@ Use issues request or discord server to suggest tasks
 - [ ] Seed travel
 - [ ] Save sampling steps
 - [ ] ControlNet
+- [ ] VAE
 - [x] txt2img
 - [x] Lexica API
 - [x] img2img
