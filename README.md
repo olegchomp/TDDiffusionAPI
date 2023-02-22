@@ -1,6 +1,7 @@
 # TDDiffusionAPI (TDA)
-Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) API
+<a href="https://discord.com/invite/wNW8xkEjrf"><img src="https://discord.com/api/guilds/838923088997122100/widget.png?style=shield" alt="Discord Shield"/></a>
 
+Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) API
 
 ![image](https://user-images.githubusercontent.com/11017531/220714418-fc4fdc14-a8c7-4d2c-964b-91aada16a638.png)
 
