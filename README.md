@@ -9,6 +9,7 @@ Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://g
 ### Features:
 * Easy install (no additional libraries & scripts). Start A1111 with api flag, drag & drop .tox to your project and you ready to go!
 * img2img mode. Connect any TOP to TDA and start generating images.
+* ControlNet support. Connect any TOP to TDA controlNet TOP input.
 * Checkpoints. You can select any checkpoint (from A1111) straight in TDA.
 * Sampling methods. Also you can select samplers in TDA.
 * Clip interrogator. Connect any TOP to TDA and interrogate CLIP to get describing prompt.
@@ -30,7 +31,7 @@ Use issues request or discord server to suggest tasks
 
 - [ ] Seed travel
 - [ ] Save sampling steps
-- [ ] ControlNet
+- [x] ControlNet
 - [ ] VAE
 - [x] txt2img
 - [x] Lexica API
