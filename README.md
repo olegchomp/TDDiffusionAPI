@@ -5,7 +5,7 @@ Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://g
 
 ![image](https://user-images.githubusercontent.com/11017531/220714418-fc4fdc14-a8c7-4d2c-964b-91aada16a638.png)
 
-## Version 2.0.2
+## Version 2.0.3
 ### Features:
 * Easy install (no additional libraries & scripts). Start A1111 with api flag, drag & drop .tox to your project and you ready to go!
 * img2img mode. Connect any TOP to TDA and start generating images.
@@ -30,9 +30,10 @@ Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://g
 Use issues request or discord server to suggest tasks 
 
 - [ ] Seed travel
+- [ ] Prompt travel
 - [ ] Save sampling steps
-- [x] ControlNet
 - [ ] VAE
+- [x] ControlNet
 - [x] txt2img
 - [x] Lexica API
 - [x] img2img
