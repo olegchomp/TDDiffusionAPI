@@ -20,7 +20,7 @@ Stable Diffusion image generator in TouchDesigner with [AUTOMATIC1111](https://g
 	
 ## Installation
 1. Install [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui#installation-and-running)
-2. Set "--api" flag in web-user.bat 
+2. Set "--api --gradio-queue" flags in web-user.bat 
 3. Download latest [TDA component](https://github.com/olegchomp/TDDiffusionAPI/releases)
 4. Add TDDiffusionAPI.tox to TouchDesigner (version >= 2022.32120) project.
 5. Set "Working folder" in TDA settings.
