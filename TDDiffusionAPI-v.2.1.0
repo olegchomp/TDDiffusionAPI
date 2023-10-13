@@ -5,15 +5,18 @@ TouchDesigner interface for [AUTOMATIC1111](https://github.com/AUTOMATIC1111/sta
 
 ![image](https://user-images.githubusercontent.com/11017531/230521603-730908a4-097a-495c-8473-82e123109d70.png)
 
-## Version 2.0.9
+## Version 2.1.0
 ### Features:
 * **Easy install (no additional libraries & scripts).** Start A1111 with api flag, drag & drop .tox to your project and you ready to go!
 * **img2img mode.** Connect any TOP to TDA and start generating images.
-* [**Controlnet.**](https://github.com/Mikubill/sd-webui-controlnet) Connect any TOP to TDA controlNet TOP input.
+* **Stream mode**. Enable toggle to start auto-generation (live mode).
+* [**Multi-Controlnet.**](https://github.com/Mikubill/sd-webui-controlnet) Multiple ControlNet inputs for a single generation. Connect any TOP to TDA controlNet TOP input.
+* **Inpainting.** Connect mask to "inpaintMask" input. Only for img2img.
+* **Scripts & Extensions.** Partial support, not all scripts can be run in TD.
+* **Aditional tools.** Support for Hires Fix, Refiner.
 * **Checkpoints.** You can select any checkpoint (from A1111) straight in TDA.
 * **Upscale.** connect any TOP to TDA extras TOP input and upscale images.
 * **Clip interrogator.** Connect any TOP to TDA and interrogate CLIP to get describing prompt.
-* [**Seed travel.**](https://github.com/yownas/seed_travel) Install extension to A1111 and generate seed travels in TouchDesigner.
 * **Annotation.** Most parameter now have help info. Hold ALT + rollover mouse on parameter.
 * **Save images.** Now you can set to save images in folder or keep (only last) image in TOP out.
 * **OSX support.**
