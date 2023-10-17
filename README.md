@@ -5,7 +5,7 @@ TouchDesigner interface for [AUTOMATIC1111](https://github.com/AUTOMATIC1111/sta
 
 ![image](https://user-images.githubusercontent.com/11017531/230521603-730908a4-097a-495c-8473-82e123109d70.png)
 
-## Version 2.1.0
+## Version 2.1.1
 ### Features:
 * **Easy install (no additional libraries & scripts).** Start A1111 with api flag, drag & drop .tox to your project and you ready to go!
 * **img2img mode.** Connect any TOP to TDA and start generating images.
